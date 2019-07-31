@@ -3,8 +3,7 @@ package com.visa.prj.client;
 import com.visa.prj.entity.Mobile;
 import com.visa.prj.entity.Product;
 import com.visa.prj.entity.Tv;
-
-import util.Utility;
+import com.visa.prj.util.Utility;
 
 public class SortClient {
 	

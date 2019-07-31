@@ -1,4 +1,4 @@
-package util;
+package com.visa.prj.util;
 
 public class Utility {
 	
